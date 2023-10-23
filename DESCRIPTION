@@ -1,8 +1,8 @@
 Package: rmargint
 Type: Package
 Title: Robust Marginal Integration Procedures
-Version: 2.0.2
-Date: 2020-08-03
+Version: 2.0.3
+Date: 2023-10-23
 Authors@R: c(person("Alejandra", "Martinez", role=c("aut", "cre"), email="ale_m_martinez@hotmail.com"),
             person("Matias", "Salibian-Barrera", role = c("aut"), email = "matias@stat.ubc.ca"))
 Description: Three robust marginal integration procedures for additive models based on local 
@@ -15,13 +15,13 @@ Description: Three robust marginal integration procedures for additive models ba
              procedures can compute predictions for points outside the training set if desired. 
              See Boente and Martinez (2017) <doi:10.1007/s11749-016-0508-0> for details. 
 License: GPL (>= 3.0)
-RoxygenNote: 6.1.1
+RoxygenNote: 7.2.3
 Encoding: UTF-8
 Imports: stats, graphics
 NeedsCompilation: yes
-Packaged: 2020-08-03 23:17:07 UTC; Alejandra
+Packaged: 2023-10-23 20:47:56 UTC; ale_m
 Author: Alejandra Martinez [aut, cre],
   Matias Salibian-Barrera [aut]
 Maintainer: Alejandra Martinez <ale_m_martinez@hotmail.com>
 Repository: CRAN
-Date/Publication: 2020-08-04 22:50:02 UTC
+Date/Publication: 2023-10-23 21:00:02 UTC
